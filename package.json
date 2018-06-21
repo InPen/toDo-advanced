@@ -1,0 +1,29 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "toDo"
+  },
+  "keywords": [
+    "express",
+    "mongo"
+  ],
+  "author": "Maria Peniche",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodeman": "^1.1.2"
+  }
+}
+/* script key */
+{
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
